@@ -1,12 +1,9 @@
-<h1 align="center">✨  Data Analytics Portfolio ✨</h1>
+<h1 align="center">✨ Data Analytics Portfolio ✨</h1>
+
 <p align="center">
+Hi! I’m a data-focused Computer Science graduate who loves turning messy datasets into clear, actionable insights.<br>
+I work with <b>SQL, Python, Tableau, Power BI, and Excel</b> to solve problems and tell stories with data.
 </p>
-
----
-
-## 👋 About Me
-Hi! I’m a data-focused Computer Science graduate who loves turning messy datasets into clear, actionable insights.  
-I work with **SQL, Python, Tableau, Power BI, and Excel** to solve  problems and tell stories with data.
 
 ---
 
@@ -15,10 +12,8 @@ I work with **SQL, Python, Tableau, Power BI, and Excel** to solve  problems and
 ### 1️⃣ Customer Lifetime Value & Retention – MySQL + Tableau
 <img src="two.png" width="600" alt="Customer Retention Dashboard Preview">
 
-**What I Did:**
-- Calculated **Customer Lifetime Value (CLV)**
-- Identified **top-spending customers**
-- Built a **cohort retention heatmap**  
+A full customer analytics project calculating **Customer Lifetime Value (CLV)**, identifying **top-spending customers**, and visualizing retention patterns through a **cohort heatmap**.
+
 **Tech Stack:** MySQL, Tableau, Data Cleaning, Cohort Analysis  
 🔗 [View Repository](https://github.com/iloveoreos11/Customer-Lifetime-Value-Monthly-Retention-Analysis-MySQL-Tableau-/blob/main/README.md)
 
@@ -27,9 +22,8 @@ I work with **SQL, Python, Tableau, Power BI, and Excel** to solve  problems and
 ### 2️⃣ Retail Inventory Optimization Dashboard – Excel
 <img src="one.png" width="600" alt="Retail Inventory Dashboard Preview">
 
-**What I Did:**
-- Analyzed daily **sales, stock, and restocks** for 3 products over 90 days  
-- Built an **interactive Excel dashboard** with PivotTables  
+Analyzed **90 days** of sales, stock, and restock data for 3 products to identify stockout risks and optimize restocking strategies. Built a **pivot-based interactive dashboard** for decision-making.
+
 **Tech Stack:** Excel, Data Visualization, Inventory Analysis  
 🔗 [View Repository](https://github.com/iloveoreos11/Retail-Inventory-Optimization-Dashboard)
 
@@ -38,9 +32,8 @@ I work with **SQL, Python, Tableau, Power BI, and Excel** to solve  problems and
 ### 3️⃣ Netflix Churn Analysis – Power BI + Python
 <img src="three.png" width="600" alt="Netflix Churn Dashboard Preview">
 
-**What I Did:**
-- Visualized **2023 churn trends, subscription tier performance, and genre engagement**
-- Delivered insights via an **interactive Power BI dashboard**  
+Visualized **2023 churn trends**, subscription tier performance, and genre engagement. Delivered insights through an **interactive Power BI dashboard** powered by Python data processing.
+
 **Tech Stack:** Python (Pandas), Power BI, Data Storytelling  
 🔗 [View Repository](https://github.com/iloveoreos11/Netflix-User-Engagement-Subscription-Trend-Analysis-)
 
@@ -50,12 +43,14 @@ I work with **SQL, Python, Tableau, Power BI, and Excel** to solve  problems and
 | Category              | Tools & Skills |
 |-----------------------|----------------|
 | **Data Analysis**     | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy), Excel |
+| **Data Cleaning**     | Data Wrangling, Missing Value Handling, Outlier Detection, Data Transformation |
 | **Visualization**     | Tableau, Power BI, Excel Dashboards |
+| **Analytics Methods** | Cohort Analysis, CLV Calculation, Trend Analysis, KPI Reporting |
 | **Programming**       | Python, SQL, C#, C++ |
 | **Other**             | GitHub, REST APIs, Firebase, Agile Workflow |
 
 ---
 
 <p align="center">
-  💡 <i>Let’s connect! I’m always open to collaborations, internships, and data projects.</i>  
+💡 <i>Let’s connect! I’m always open to collaborations, internships, and data projects.</i>
 </p>
