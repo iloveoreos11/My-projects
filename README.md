@@ -13,7 +13,7 @@ I work with **SQL, Python, Tableau, Power BI, and Excel** to solve  problems and
 ## 📂 Featured Projects
 
 ### 1️⃣ Customer Lifetime Value & Retention – MySQL + Tableau
-<img src="Tableau%20Dashboard.png" width="600" alt="Customer Retention Dashboard Preview">
+<img src="two.png" width="600" alt="Customer Retention Dashboard Preview">
 
 **What I Did:**
 - Calculated **Customer Lifetime Value (CLV)**
@@ -25,7 +25,7 @@ I work with **SQL, Python, Tableau, Power BI, and Excel** to solve  problems and
 ---
 
 ### 2️⃣ Retail Inventory Optimization Dashboard – Excel
-<img src="Retail%20Dashboard.png" width="600" alt="Retail Inventory Dashboard Preview">
+<img src="one.png" width="600" alt="Retail Inventory Dashboard Preview">
 
 **What I Did:**
 - Analyzed daily **sales, stock, and restocks** for 3 products over 90 days  
@@ -36,7 +36,7 @@ I work with **SQL, Python, Tableau, Power BI, and Excel** to solve  problems and
 ---
 
 ### 3️⃣ Netflix Churn Analysis – Power BI + Python
-<img src="Netflix%20Dashboard.png" width="600" alt="Netflix Churn Dashboard Preview">
+<img src="three.png" width="600" alt="Netflix Churn Dashboard Preview">
 
 **What I Did:**
 - Visualized **2023 churn trends, subscription tier performance, and genre engagement**
