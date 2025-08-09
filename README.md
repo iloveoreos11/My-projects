@@ -19,7 +19,16 @@ Visualized **2023 churn trends**, subscription tier performance, and genre engag
 
 ---
 
-### 2️⃣ Customer Lifetime Value & Retention – MySQL + Tableau
+### 2️⃣Retail Inventory Optimization Dashboard – Excel
+<img src="retail.png" width="600" alt="Retail Inventory Dashboard Preview">
+
+Analyzed **90 days** of sales, stock, and restock data for 3 products to identify stockout risks and optimize restocking strategies. Built a **pivot-based interactive dashboard** for decision-making.
+
+**Tech Stack:** Excel, Data Visualization, Inventory Analysis  
+🔗 [View Repository](https://github.com/iloveoreos11/Retail-Inventory-Optimization-Dashboard)
+
+---
+### 3️⃣ Customer Lifetime Value & Retention – MySQL + Tableau
 <img src="two.png" width="600" alt="Customer Retention Dashboard Preview">
 
 A full customer analytics project calculating **Customer Lifetime Value (CLV)**, identifying **top-spending customers**, and visualizing retention patterns through a **cohort heatmap**.
@@ -29,15 +38,6 @@ A full customer analytics project calculating **Customer Lifetime Value (CLV)**,
 
 ---
 
-### 3️⃣ Retail Inventory Optimization Dashboard – Excel
-<img src="retail.png" width="600" alt="Retail Inventory Dashboard Preview">
-
-Analyzed **90 days** of sales, stock, and restock data for 3 products to identify stockout risks and optimize restocking strategies. Built a **pivot-based interactive dashboard** for decision-making.
-
-**Tech Stack:** Excel, Data Visualization, Inventory Analysis  
-🔗 [View Repository](https://github.com/iloveoreos11/Retail-Inventory-Optimization-Dashboard)
-
----
 
 
 ## 🛠 Tech Skills
