@@ -7,6 +7,16 @@ I work with <b>SQL, Python, Tableau, Power BI, and Excel</b> to solve problems a
 
 ---
 
+## 👩‍💻 About Me
+I’m a **BSc (Hons) Computer Science** graduate with a focus on **data analytics, BI reporting, and dashboard development**.  
+I enjoy transforming complex datasets into clear, client-ready insights that drive decision-making.  
+
+- Skilled in SQL, Python, Tableau, Power BI, and Excel for analysis and visualisation.  
+- Strong communicator with experience presenting findings to technical and non-technical audiences.  
+- Delivered multiple portfolio projects that demonstrate my ability to analyse, visualise, and optimise data for business impact.  
+
+---
+
 ## 📂 Featured Projects
 
 ### 1️⃣ Netflix Churn Analysis – Power BI + Python
@@ -19,26 +29,25 @@ Visualized **2023 churn trends**, subscription tier performance, and genre engag
 
 ---
 
-### 2️⃣Retail Inventory Optimization Dashboard – Excel
+### 2️⃣ Retail Inventory Optimization Dashboard – Excel
 <img src="retail.png" width="600" alt="Retail Inventory Dashboard Preview">
 
-Analyzed **90 days** of sales, stock, and restock data for 3 products to identify stockout risks and optimize restocking strategies. Built a **pivot-based interactive dashboard** for decision-making.
+Analyzed **90 days** of sales, stock, and restock data for 3 products to identify stockout risks and optimise restocking strategies. Built a **pivot-based interactive dashboard** for decision-making.
 
 **Tech Stack:** Excel, Data Visualization, Inventory Analysis  
 🔗 [View Repository](https://github.com/iloveoreos11/Retail-Inventory-Optimization-Dashboard)
 
 ---
+
 ### 3️⃣ Customer Lifetime Value & Retention – MySQL + Tableau
 <img src="two.png" width="600" alt="Customer Retention Dashboard Preview">
 
-A full customer analytics project calculating **Customer Lifetime Value (CLV)**, identifying **top-spending customers**, and visualizing retention patterns through a **cohort heatmap**.
+A full customer analytics project calculating **Customer Lifetime Value (CLV)**, identifying **top-spending customers**, and visualising retention patterns through a **cohort heatmap**.
 
 **Tech Stack:** MySQL, Tableau, Data Cleaning, Cohort Analysis  
 🔗 [View Repository](https://github.com/iloveoreos11/Customer-Lifetime-Value-Monthly-Retention-Analysis-MySQL-Tableau-/blob/main/README.md)
 
 ---
-
-
 
 ## 🛠 Tech Skills
 | Category              | Tools & Skills |
@@ -49,6 +58,13 @@ A full customer analytics project calculating **Customer Lifetime Value (CLV)**,
 | **Analytics Methods** | Cohort Analysis, CLV Calculation, Trend Analysis, KPI Reporting |
 | **Programming**       | Python, SQL, C#, C++ |
 | **Other**             | GitHub, REST APIs, Firebase, Agile Workflow |
+
+---
+
+## 📬 Contact
+- **Email:** angdwina1@gmail.com  
+- **Location:** Hull, United Kingdom (Open to relocation)  
+- **Portfolio Repository:** [GitHub Projects](https://github.com/iloveoreos11/My-projects/blob/main/README.md)  
 
 ---
 
