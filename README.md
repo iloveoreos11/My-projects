@@ -1,15 +1,15 @@
 <h1 align="center">✨ Data Analytics Portfolio ✨</h1>
 
 <p align="center">
-Hi! I’m a data-focused Computer Science graduate who loves turning messy datasets into clear, actionable insights.<br>
+Hi! I’m a data-focused professional who loves turning messy datasets into clear, actionable insights.<br>
 I work with <b>SQL, Python, Tableau, Power BI, and Excel</b> to solve problems and tell stories with data.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-I’m a **BSc (Hons) Computer Science** graduate with a focus on **data analytics, BI reporting, and dashboard development**.  
-I enjoy transforming complex datasets into clear, client-ready insights that drive decision-making.  
+I hold a BSc (Hons) in Computer Science and have worked on diverse projects in data analytics, business intelligence, and dashboard development.
+Through both academic and portfolio projects, I’ve gained hands-on experience in transforming complex datasets into clear, actionable insights that drive smarter business decisions and deliver value to clients.
 
 - Skilled in SQL, Python, Tableau, Power BI, and Excel for analysis and visualisation.  
 - Strong communicator with experience presenting findings to technical and non-technical audiences.  
